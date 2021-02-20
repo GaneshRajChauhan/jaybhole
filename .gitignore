@@ -1,0 +1,24 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+obj/
+bin/
+node_modules/
+aspnet-core/src/PharmaSolution.Web.Host/App_Data/Logs/
+aspnet-core/src/PharmaSolution.Web.Host/wwwroot/
+aspnet-core/src/PharmaSolution.Web.Mvc/App_Data/Logs/
+aspnet-core/src/PharmaSolution.Migrator/Logs/Logs.txt
+/aspnet-core/.vscode
+/aspnet-core/src/.vscode
+/aspnet-core/src/PharmaSolution.Mobile.ProductionProcessRecording/.vscode
+/aspnet-core/src/PharmaSolution.Web.Host/.vscode
+/aspnet-core/WebApplication1/wwwroot
+/aspnet-core/PharmaSolution.Report/wwwroot
+/aspnet-core/PharmaSolution.Report/Data
+/aspnet-core/src/PharmaSolution.Report/wwwroot
+/aspnet-core/src/PharmaSolution.Report/Data
+/aspnet-core/src/PharamSolutionWeb.Reports/XtraForm1.Designer.cs
+/aspnet-core/src/PharamSolutionWeb.Reports/XtraForm1.cs
+/aspnet-core/src/PharmaSolution.Web.Host/appsettings.json
+
